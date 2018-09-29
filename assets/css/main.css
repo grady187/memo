@@ -814,11 +814,7 @@ input, select, textarea {
 				}
 
 				.row.gtr-uniform > * > :last-child {
-					margin-bottom: 0;
-				}
-
-				.row.aln-left {
-					justify-content: flex-start;
+					margin-bottom: 0;e
 				}
 
 				.row.aln-center {
@@ -2685,7 +2681,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #fffe;
+				
 			}
 
 			.tiles article.style2 > .image:before {
